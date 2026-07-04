@@ -23,7 +23,7 @@
     }
   },
   {
-    "BillID": "AKU2602208475F",
+    "BillID": "AKU2608475419H",
     "DOB": "/Date(-243216000000+0000)/",
     "DeathDateTime": null,
     "Email": "",
@@ -40,13 +40,13 @@
     "SubventionDocID": "S0891234A",
     "SubventionDocType": "P",
     "__metadata": {
-      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2602208475F')",
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2608475419H')",
       "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
-      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2602208475F')"
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2608475419H')"
     }
   },
   {
-    "BillID": "AKU2601586597B",
+    "BillID": "AKU2607942281D",
     "DOB": "/Date(186537600000+0000)/",
     "DeathDateTime": null,
     "Email": "",
@@ -63,13 +63,13 @@
     "SubventionDocID": "S1122998K",
     "SubventionDocType": "P",
     "__metadata": {
-      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2601586597B')",
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2607942281D')",
       "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
-      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2601586597B')"
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2607942281D')"
     }
   },
   {
-    "BillID": "AKU2606174447K",
+    "BillID": "AKU2602949956E",
     "DOB": "/Date(-693187200000+0000)/",
     "DeathDateTime": null,
     "Email": "",
@@ -86,13 +86,13 @@
     "SubventionDocID": "S2005567D",
     "SubventionDocType": "P",
     "__metadata": {
-      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2606174447K')",
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2602949956E')",
       "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
-      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2606174447K')"
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2602949956E')"
     }
   },
   {
-    "BillID": "AKN2609535952B",
+    "BillID": "AKN2608344586F",
     "DOB": "/Date(585532800000+0000)/",
     "DeathDateTime": null,
     "Email": "",
@@ -109,13 +109,13 @@
     "SubventionDocID": "S3145009E",
     "SubventionDocType": "P",
     "__metadata": {
-      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2609535952B')",
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2608344586F')",
       "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
-      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2609535952B')"
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2608344586F')"
     }
   },
   {
-    "BillID": "AKN2606080306Z",
+    "BillID": "AKN2607801972K",
     "DOB": "/Date(762825600000+0000)/",
     "DeathDateTime": null,
     "Email": "",
@@ -132,13 +132,13 @@
     "SubventionDocID": "S4200871G",
     "SubventionDocType": "P",
     "__metadata": {
-      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2606080306Z')",
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2607801972K')",
       "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
-      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2606080306Z')"
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2607801972K')"
     }
   },
   {
-    "BillID": "AKU2601478226A",
+    "BillID": "AKU2601043810E",
     "DOB": "/Date(-388281600000+0000)/",
     "DeathDateTime": null,
     "Email": "",
@@ -155,36 +155,13 @@
     "SubventionDocID": "S5330428H",
     "SubventionDocType": "P",
     "__metadata": {
-      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2601478226A')",
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2601043810E')",
       "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
-      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2601478226A')"
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2601043810E')"
     }
   },
   {
-    "BillID": "AKU2601943696G",
-    "DOB": "/Date(1466812800000+0000)/",
-    "DeathDateTime": null,
-    "Email": "",
-    "ForeignType": "",
-    "FullName": "SEBASTIAN LEE JIA WEI",
-    "Gender": 2,
-    "GenderName": "Male",
-    "MRN": "S6412778J",
-    "MainAddress": "Block 44, Tampines Street 41, 10-556, Singapore 520044",
-    "PatientID": "1000802178",
-    "ResidentialStatus": "SC",
-    "Status": "A",
-    "Status_Text": "Active",
-    "SubventionDocID": "S6412778J",
-    "SubventionDocType": "P",
-    "__metadata": {
-      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2601943696G')",
-      "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
-      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2601943696G')"
-    }
-  },
-  {
-    "BillID": "AKU2608679921E",
+    "BillID": "AKU2604446602D",
     "DOB": "/Date(29462400000+0000)/",
     "DeathDateTime": null,
     "Email": "",
@@ -201,13 +178,13 @@
     "SubventionDocID": "S7554390B",
     "SubventionDocType": "P",
     "__metadata": {
-      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2608679921E')",
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2604446602D')",
       "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
-      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2608679921E')"
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2604446602D')"
     }
   },
   {
-    "BillID": "AKN2605343865B",
+    "BillID": "AKN2607428072F",
     "DOB": "/Date(-342144000000+0000)/",
     "DeathDateTime": null,
     "Email": "",
@@ -224,9 +201,124 @@
     "SubventionDocID": "S8600222C",
     "SubventionDocType": "P",
     "__metadata": {
-      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2605343865B')",
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2607428072F')",
       "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
-      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2605343865B')"
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2607428072F')"
+    }
+  },
+  {
+    "BillID": "AKU2609816446A",
+    "DOB": "/Date(327110400000+0000)/",
+    "DeathDateTime": null,
+    "Email": "",
+    "ForeignType": "",
+    "FullName": "SITI NURHALIZA BINTE AHMAD",
+    "Gender": 1,
+    "GenderName": "Female",
+    "MRN": "S9145603P",
+    "MainAddress": "Block 401, Jurong West Street 42, 04-118, Singapore 640401",
+    "PatientID": "1001102534",
+    "ResidentialStatus": "SC",
+    "Status": "A",
+    "Status_Text": "Active",
+    "SubventionDocID": "S9145603P",
+    "SubventionDocType": "P",
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2609816446A')",
+      "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2609816446A')"
+    }
+  },
+  {
+    "BillID": "AKN2609379905H",
+    "DOB": "/Date(-449798400000+0000)/",
+    "DeathDateTime": null,
+    "Email": "",
+    "ForeignType": "",
+    "FullName": "KOH BOON HOCK",
+    "Gender": 2,
+    "GenderName": "Male",
+    "MRN": "S9987001R",
+    "MainAddress": "Block 32, Bukit Merah Lane, 20-401, Singapore 150032",
+    "PatientID": "1001202656",
+    "ResidentialStatus": "SC",
+    "Status": "A",
+    "Status_Text": "Active",
+    "SubventionDocID": "S9987001R",
+    "SubventionDocType": "P",
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2609379905H')",
+      "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2609379905H')"
+    }
+  },
+  {
+    "BillID": "AKN2603983579Z",
+    "DOB": "/Date(632966400000+0000)/",
+    "DeathDateTime": null,
+    "Email": "",
+    "ForeignType": "",
+    "FullName": "PRIYA A/P KANDASAMY",
+    "Gender": 1,
+    "GenderName": "Female",
+    "MRN": "T0012221S",
+    "MainAddress": "Block 65, Geylang Bahru, 06-99, Singapore 330065",
+    "PatientID": "1001302778",
+    "ResidentialStatus": "SC",
+    "Status": "A",
+    "Status_Text": "Active",
+    "SubventionDocID": "T0012221S",
+    "SubventionDocType": "P",
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2603983579Z')",
+      "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2603983579Z')"
+    }
+  },
+  {
+    "BillID": "AKU2608628156A",
+    "DOB": "/Date(1601424000000+0000)/",
+    "DeathDateTime": null,
+    "Email": "",
+    "ForeignType": "",
+    "FullName": "EMILY TAN HUI QI",
+    "Gender": 1,
+    "GenderName": "Female",
+    "MRN": "T0089900T",
+    "MainAddress": "Block 118, Punggol Field, 14-52, Singapore 820118",
+    "PatientID": "1001402890",
+    "ResidentialStatus": "SC",
+    "Status": "A",
+    "Status_Text": "Active",
+    "SubventionDocID": "T0089900T",
+    "SubventionDocType": "P",
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2608628156A')",
+      "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKU2608628156A')"
+    }
+  },
+  {
+    "BillID": "AKN2603154045E",
+    "DOB": "/Date(-35942400000+0000)/",
+    "DeathDateTime": null,
+    "Email": "",
+    "ForeignType": "",
+    "FullName": "ARUL MURUGAN",
+    "Gender": 2,
+    "GenderName": "Male",
+    "MRN": "T0202020U",
+    "MainAddress": "Block 88, Hougang Ave 6, 12-303, Singapore 530088",
+    "PatientID": "1001503012",
+    "ResidentialStatus": "SC",
+    "Status": "A",
+    "Status_Text": "Active",
+    "SubventionDocID": "T0202020U",
+    "SubventionDocType": "P",
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2603154045E')",
+      "type": "cds_zpabl_patient_billing_srv.BillMPB_CEType",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/BillMPB_CESet(BillID='AKN2603154045E')"
     }
   }
 ]
