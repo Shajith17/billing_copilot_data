@@ -1,0 +1,3554 @@
+[
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-9d9d-b19ff6d848de')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-9d9d-b19ff6d848de')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": true,
+    "generate_interim_bill_ac": true,
+    "generate_test_bill_ac": true,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-2745-1fe1-9d9d-b19ff6d848de",
+    "BillID": "AKN2600989619J",
+    "BillVersionID": "0",
+    "BillType": "D",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1IIB",
+    "BilledUntil": null,
+    "BillDisplayID": "AKN2600989619J (Draft)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "",
+    "HasFinal": "",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "REPS1100I007",
+    "CreatedAt": "\/Date(1782869911390+0000)\/",
+    "LastChangedBy": "REPS1100I007",
+    "LastChangedAt": "\/Date(1782976077103+0000)\/",
+    "BillCVCreatedAt": "\/Date(1782869914557+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1782976077960+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "S",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Draft",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-9d9d-b19ff6d848de')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-9d9d-b19ff6d848de')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-9d9d-b19ff6d848de')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-9d9d-b19ff6d848de')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-9d9d-b19ff6d848de')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-9d9d-b19ff6d848de')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-9d9d-b19ff6d848de')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-9d9d-b19ff6d848de')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-9d9d-b19ff6d848de')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1baf-1fe1-9dae-8f5050ae28e0')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1baf-1fe1-9dae-8f5050ae28e0')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-1baf-1fe1-9dae-8f5050ae28e0",
+    "BillID": "AKU2600979746C",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600979746C/001 (Final - 02.07.2026 01:44:22)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1782927862154+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1782927862154+0000)\/",
+    "BillCVCreatedAt": "\/Date(1782777620391+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1782935366422+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1baf-1fe1-9dae-8f5050ae28e0')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1baf-1fe1-9dae-8f5050ae28e0')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1baf-1fe1-9dae-8f5050ae28e0')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1baf-1fe1-9dae-8f5050ae28e0')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1baf-1fe1-9dae-8f5050ae28e0')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1baf-1fe1-9dae-8f5050ae28e0')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1baf-1fe1-9dae-8f5050ae28e0')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1baf-1fe1-9dae-8f5050ae28e0')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1baf-1fe1-9dae-8f5050ae28e0')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe1-9d85-f97d5932e8de')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe1-9d85-f97d5932e8de')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-7ce2-1fe1-9d85-f97d5932e8de",
+    "BillID": "AKU2600979746C",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600979746C/000 (Test - 30.06.2026 11:00:16)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "33734470",
+    "FirstPrintedAt": "\/Date(1782788427246+0000)\/",
+    "LastPrintedBy": "33734470",
+    "LastPrintedAt": "\/Date(1782788427246+0000)\/",
+    "CreatedBy": "33734470",
+    "CreatedAt": "\/Date(1782788416784+0000)\/",
+    "LastChangedBy": "33734470",
+    "LastChangedAt": "\/Date(1782788416784+0000)\/",
+    "BillCVCreatedAt": "\/Date(1782777620391+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1782788422182+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe1-9d85-f97d5932e8de')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe1-9d85-f97d5932e8de')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe1-9d85-f97d5932e8de')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe1-9d85-f97d5932e8de')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe1-9d85-f97d5932e8de')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe1-9d85-f97d5932e8de')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe1-9d85-f97d5932e8de')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe1-9d85-f97d5932e8de')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe1-9d85-f97d5932e8de')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9bcd-e7832e88a8e9')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9bcd-e7832e88a8e9')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-ec04-1fe1-9bcd-e7832e88a8e9",
+    "BillID": "AKN2600895696A",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1IIB",
+    "BilledUntil": null,
+    "BillDisplayID": "AKN2600895696A/001 (Final - 23.06.2026 03:19:10)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1782155950255+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1782155950255+0000)\/",
+    "BillCVCreatedAt": "\/Date(1781488859440+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1782156979718+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "S",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9bcd-e7832e88a8e9')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9bcd-e7832e88a8e9')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9bcd-e7832e88a8e9')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9bcd-e7832e88a8e9')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9bcd-e7832e88a8e9')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9bcd-e7832e88a8e9')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9bcd-e7832e88a8e9')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9bcd-e7832e88a8e9')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9bcd-e7832e88a8e9')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9ab7-24d2dc22e8de')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9ab7-24d2dc22e8de')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-1c34-1fe1-9ab7-24d2dc22e8de",
+    "BillID": "AKU2600894108E",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1ED1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600894108E/001 (Final - 17.06.2026 03:25:43)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1781637943781+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1781637943781+0000)\/",
+    "BillCVCreatedAt": "\/Date(1781483493284+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1781637952641+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "S",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9ab7-24d2dc22e8de')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9ab7-24d2dc22e8de')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9ab7-24d2dc22e8de')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9ab7-24d2dc22e8de')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9ab7-24d2dc22e8de')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9ab7-24d2dc22e8de')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9ab7-24d2dc22e8de')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9ab7-24d2dc22e8de')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9ab7-24d2dc22e8de')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe1-9a82-b9b4358d68df')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe1-9a82-b9b4358d68df')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-055e-1fe1-9a82-b9b4358d68df",
+    "BillID": "AKU2600886227F",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600886227F/001 (Final - 15.06.2026 01:23:53)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1781457833452+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1781457833452+0000)\/",
+    "BillCVCreatedAt": "\/Date(1781226946596+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1781694977093+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe1-9a82-b9b4358d68df')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe1-9a82-b9b4358d68df')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe1-9a82-b9b4358d68df')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe1-9a82-b9b4358d68df')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe1-9a82-b9b4358d68df')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe1-9a82-b9b4358d68df')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe1-9a82-b9b4358d68df')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe1-9a82-b9b4358d68df')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe1-9a82-b9b4358d68df')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-9490-fb2139d068e0')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-9490-fb2139d068e0')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-aae0-1fe1-9490-fb2139d068e0",
+    "BillID": "AKU2600723241Z",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600723241Z/001 (Final - 16.05.2026 01:59:46)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1778867986142+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1778867986142+0000)\/",
+    "BillCVCreatedAt": "\/Date(1778632818770+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1781694852051+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-9490-fb2139d068e0')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-9490-fb2139d068e0')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-9490-fb2139d068e0')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-9490-fb2139d068e0')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-9490-fb2139d068e0')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-9490-fb2139d068e0')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-9490-fb2139d068e0')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-9490-fb2139d068e0')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-9490-fb2139d068e0')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-93cc-8f75892a28dc')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-93cc-8f75892a28dc')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-daf0-1fe1-93cc-8f75892a28dc",
+    "BillID": "AKU2600723241Z",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600723241Z/000 (Test - 13.05.2026 08:41:37)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "41318348",
+    "FirstPrintedAt": "\/Date(1778632906255+0000)\/",
+    "LastPrintedBy": "41318348",
+    "LastPrintedAt": "\/Date(1778632906255+0000)\/",
+    "CreatedBy": "41318348",
+    "CreatedAt": "\/Date(1778632897868+0000)\/",
+    "LastChangedBy": "41318348",
+    "LastChangedAt": "\/Date(1778632897868+0000)\/",
+    "BillCVCreatedAt": "\/Date(1778632818770+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1778632903363+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-93cc-8f75892a28dc')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-93cc-8f75892a28dc')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-93cc-8f75892a28dc')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-93cc-8f75892a28dc')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-93cc-8f75892a28dc')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-93cc-8f75892a28dc')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-93cc-8f75892a28dc')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-93cc-8f75892a28dc')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-93cc-8f75892a28dc')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9491-0b6ceb5dc8e8')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9491-0b6ceb5dc8e8')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-ec04-1fe1-9491-0b6ceb5dc8e8",
+    "BillID": "AKU2600722748Z",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600722748Z/001 (Final - 16.05.2026 02:03:22)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1778868202819+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1778868202819+0000)\/",
+    "BillCVCreatedAt": "\/Date(1778630611244+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1781694894433+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9491-0b6ceb5dc8e8')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9491-0b6ceb5dc8e8')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9491-0b6ceb5dc8e8')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9491-0b6ceb5dc8e8')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9491-0b6ceb5dc8e8')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9491-0b6ceb5dc8e8')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9491-0b6ceb5dc8e8')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9491-0b6ceb5dc8e8')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-9491-0b6ceb5dc8e8')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-9080-e52556b968e3')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-9080-e52556b968e3')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-444d-1fe1-9080-e52556b968e3",
+    "BillID": "AKU2600610048F",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600610048F/001 (Final - 25.04.2026 01:58:17)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1777053497322+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1777053497322+0000)\/",
+    "BillCVCreatedAt": "\/Date(1776826386911+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1781694853796+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-9080-e52556b968e3')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-9080-e52556b968e3')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-9080-e52556b968e3')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-9080-e52556b968e3')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-9080-e52556b968e3')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-9080-e52556b968e3')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-9080-e52556b968e3')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-9080-e52556b968e3')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-9080-e52556b968e3')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-8fbf-66cf5df708df')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-8fbf-66cf5df708df')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-a013-1fe1-8fbf-66cf5df708df",
+    "BillID": "AKU2600610048F",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600610048F/000 (Test - 22.04.2026 11:27:42)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "62516075",
+    "FirstPrintedAt": "\/Date(1776828470426+0000)\/",
+    "LastPrintedBy": "62516075",
+    "LastPrintedAt": "\/Date(1776828470426+0000)\/",
+    "CreatedBy": "62516075",
+    "CreatedAt": "\/Date(1776828462076+0000)\/",
+    "LastChangedBy": "62516075",
+    "LastChangedAt": "\/Date(1776828462076+0000)\/",
+    "BillCVCreatedAt": "\/Date(1776826386911+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1776828466831+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-8fbf-66cf5df708df')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-8fbf-66cf5df708df')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-8fbf-66cf5df708df')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-8fbf-66cf5df708df')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-8fbf-66cf5df708df')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-8fbf-66cf5df708df')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-8fbf-66cf5df708df')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-8fbf-66cf5df708df')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-8fbf-66cf5df708df')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9080-f29a5acf68dd')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9080-f29a5acf68dd')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-1c34-1fe1-9080-f29a5acf68dd",
+    "BillID": "AKU2600607590K",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600607590K/001 (Final - 25.04.2026 02:01:18)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1777053678839+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1777053678839+0000)\/",
+    "BillCVCreatedAt": "\/Date(1776818673573+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1781694898756+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9080-f29a5acf68dd')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9080-f29a5acf68dd')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9080-f29a5acf68dd')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9080-f29a5acf68dd')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9080-f29a5acf68dd')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9080-f29a5acf68dd')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9080-f29a5acf68dd')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9080-f29a5acf68dd')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-1c34-1fe1-9080-f29a5acf68dd')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-8880-866740e668db')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-8880-866740e668db')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-c585-1fe1-8880-866740e668db",
+    "BillID": "AKU2600391765D",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600391765D/001 (Final - 15.03.2026 08:16:33)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "RFC_PS1100",
+    "FirstPrintedAt": "\/Date(1773573894685+0000)\/",
+    "LastPrintedBy": "RFC_PS1100",
+    "LastPrintedAt": "\/Date(1773573894685+0000)\/",
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1773533793647+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1773533793647+0000)\/",
+    "BillCVCreatedAt": "\/Date(1773308507076+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1773604759996+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-8880-866740e668db')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-8880-866740e668db')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-8880-866740e668db')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-8880-866740e668db')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-8880-866740e668db')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-8880-866740e668db')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-8880-866740e668db')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-8880-866740e668db')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-8880-866740e668db')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-85ee-8d49cbb628de')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-85ee-8d49cbb628de')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-a013-1fe1-85ee-8d49cbb628de",
+    "BillID": "AKU2600335531E",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600335531E/000 (Test - 04.03.2026 10:47:06)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "54660298",
+    "FirstPrintedAt": "\/Date(1772592435196+0000)\/",
+    "LastPrintedBy": "54660298",
+    "LastPrintedAt": "\/Date(1772592435196+0000)\/",
+    "CreatedBy": "54660298",
+    "CreatedAt": "\/Date(1772592426586+0000)\/",
+    "LastChangedBy": "54660298",
+    "LastChangedAt": "\/Date(1772592426586+0000)\/",
+    "BillCVCreatedAt": "\/Date(1772582903721+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1772592431316+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-85ee-8d49cbb628de')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-85ee-8d49cbb628de')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-85ee-8d49cbb628de')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-85ee-8d49cbb628de')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-85ee-8d49cbb628de')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-85ee-8d49cbb628de')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-85ee-8d49cbb628de')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-85ee-8d49cbb628de')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-85ee-8d49cbb628de')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-86e3-2c2eaaba08db')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-86e3-2c2eaaba08db')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-daf0-1fe1-86e3-2c2eaaba08db",
+    "BillID": "AKU2600335531E",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600335531E/001 (Final - 09.03.2026 02:05:26)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1772993126575+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1772993126575+0000)\/",
+    "BillCVCreatedAt": "\/Date(1772582903721+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1781694900853+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-86e3-2c2eaaba08db')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-86e3-2c2eaaba08db')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-86e3-2c2eaaba08db')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-86e3-2c2eaaba08db')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-86e3-2c2eaaba08db')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-86e3-2c2eaaba08db')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-86e3-2c2eaaba08db')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-86e3-2c2eaaba08db')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-86e3-2c2eaaba08db')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8795-05806c4808db')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8795-05806c4808db')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-daf0-1fe1-8795-05806c4808db",
+    "BillID": "AKU2600307613J",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600307613J/001 (Final - 11.03.2026 01:40:05)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1773164405853+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1773164405853+0000)\/",
+    "BillCVCreatedAt": "\/Date(1772084660912+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1781694918056+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8795-05806c4808db')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8795-05806c4808db')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8795-05806c4808db')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8795-05806c4808db')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8795-05806c4808db')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8795-05806c4808db')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8795-05806c4808db')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8795-05806c4808db')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8795-05806c4808db')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-85b3-36a4dced28e2')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-85b3-36a4dced28e2')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-444d-1fe1-85b3-36a4dced28e2",
+    "BillID": "AKU2600294424D",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600294424D/001 (Final - 02.03.2026 02:08:55)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1772388535658+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1772388535658+0000)\/",
+    "BillCVCreatedAt": "\/Date(1771978118308+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1781694910568+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-85b3-36a4dced28e2')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-85b3-36a4dced28e2')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-85b3-36a4dced28e2')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-85b3-36a4dced28e2')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-85b3-36a4dced28e2')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-85b3-36a4dced28e2')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-85b3-36a4dced28e2')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-85b3-36a4dced28e2')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe1-85b3-36a4dced28e2')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-84c0-03e2c76ac8da')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-84c0-03e2c76ac8da')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-c585-1fe1-84c0-03e2c76ac8da",
+    "BillID": "AKU2600294424D",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600294424D/000 (Test - 25.02.2026 12:11:56)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "88309023",
+    "FirstPrintedAt": "\/Date(1771992723949+0000)\/",
+    "LastPrintedBy": "88309023",
+    "LastPrintedAt": "\/Date(1771992723949+0000)\/",
+    "CreatedBy": "88309023",
+    "CreatedAt": "\/Date(1771992716646+0000)\/",
+    "LastChangedBy": "88309023",
+    "LastChangedAt": "\/Date(1771992716646+0000)\/",
+    "BillCVCreatedAt": "\/Date(1771978118308+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1771992720959+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-84c0-03e2c76ac8da')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-84c0-03e2c76ac8da')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-84c0-03e2c76ac8da')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-84c0-03e2c76ac8da')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-84c0-03e2c76ac8da')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-84c0-03e2c76ac8da')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-84c0-03e2c76ac8da')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-84c0-03e2c76ac8da')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe1-84c0-03e2c76ac8da')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8385-eeeb3fd0c8db')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8385-eeeb3fd0c8db')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-daf0-1fe1-8385-eeeb3fd0c8db",
+    "BillID": "AKN2600213899B",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1IIB",
+    "BilledUntil": null,
+    "BillDisplayID": "AKN2600213899B/001 (Final - 18.02.2026 02:35:46)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1771353346184+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1771353346184+0000)\/",
+    "BillCVCreatedAt": "\/Date(1770389954841+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1781694907814+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "S",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8385-eeeb3fd0c8db')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8385-eeeb3fd0c8db')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8385-eeeb3fd0c8db')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8385-eeeb3fd0c8db')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8385-eeeb3fd0c8db')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8385-eeeb3fd0c8db')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8385-eeeb3fd0c8db')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8385-eeeb3fd0c8db')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe1-8385-eeeb3fd0c8db')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-81a4-00b7b74088dd')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-81a4-00b7b74088dd')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-aae0-1fe1-81a4-00b7b74088dd",
+    "BillID": "AKU2600213852Z",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1ED1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600213852Z/001 (Final - 09.02.2026 02:57:36)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "",
+    "FirstPrintedAt": null,
+    "LastPrintedBy": "",
+    "LastPrintedAt": null,
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1770577056736+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1770577056736+0000)\/",
+    "BillCVCreatedAt": "\/Date(1770384786126+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1781637952779+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "S",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-81a4-00b7b74088dd')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-81a4-00b7b74088dd')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-81a4-00b7b74088dd')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-81a4-00b7b74088dd')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-81a4-00b7b74088dd')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-81a4-00b7b74088dd')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-81a4-00b7b74088dd')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-81a4-00b7b74088dd')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-aae0-1fe1-81a4-00b7b74088dd')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-81a2-aed9d6d248e6')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-81a2-aed9d6d248e6')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-ec04-1fe1-81a2-aed9d6d248e6",
+    "BillID": "AKU2600209901D",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600209901D/001 (Final - 09.02.2026 01:42:00)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "RFC_PS1100",
+    "FirstPrintedAt": "\/Date(1770595328666+0000)\/",
+    "LastPrintedBy": "RFC_PS1100",
+    "LastPrintedAt": "\/Date(1770595328666+0000)\/",
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1770572520775+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1770572520775+0000)\/",
+    "BillCVCreatedAt": "\/Date(1770346276282+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1770665631410+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-81a2-aed9d6d248e6')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-81a2-aed9d6d248e6')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-81a2-aed9d6d248e6')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-81a2-aed9d6d248e6')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-81a2-aed9d6d248e6')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-81a2-aed9d6d248e6')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-81a2-aed9d6d248e6')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-81a2-aed9d6d248e6')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe1-81a2-aed9d6d248e6')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-80e4-9218c02588d9')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-80e4-9218c02588d9')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-2745-1fe1-80e4-9218c02588d9",
+    "BillID": "AKU2600207198A",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600207198A/000 (Test - 06.02.2026 14:25:04)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "88309023",
+    "FirstPrintedAt": "\/Date(1770359112823+0000)\/",
+    "LastPrintedBy": "88309023",
+    "LastPrintedAt": "\/Date(1770359112823+0000)\/",
+    "CreatedBy": "88309023",
+    "CreatedAt": "\/Date(1770359104594+0000)\/",
+    "LastChangedBy": "88309023",
+    "LastChangedAt": "\/Date(1770359104594+0000)\/",
+    "BillCVCreatedAt": "\/Date(1770336485751+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1770359109023+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-80e4-9218c02588d9')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-80e4-9218c02588d9')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-80e4-9218c02588d9')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-80e4-9218c02588d9')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-80e4-9218c02588d9')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-80e4-9218c02588d9')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-80e4-9218c02588d9')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-80e4-9218c02588d9')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe1-80e4-9218c02588d9')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-81a2-d0ba579548dd')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-81a2-d0ba579548dd')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-a013-1fe1-81a2-d0ba579548dd",
+    "BillID": "AKU2600207198A",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2600207198A/001 (Final - 09.02.2026 01:49:33)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "RFC_PS1100",
+    "FirstPrintedAt": "\/Date(1770686324552+0000)\/",
+    "LastPrintedBy": "RFC_PS1100",
+    "LastPrintedAt": "\/Date(1770686324552+0000)\/",
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1770572973280+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1770572973280+0000)\/",
+    "BillCVCreatedAt": "\/Date(1770336485751+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1770638252437+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-81a2-d0ba579548dd')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-81a2-d0ba579548dd')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-81a2-d0ba579548dd')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-81a2-d0ba579548dd')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-81a2-d0ba579548dd')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-81a2-d0ba579548dd')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-81a2-d0ba579548dd')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-81a2-d0ba579548dd')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe1-81a2-d0ba579548dd')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-b0d1-529383a268df')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-b0d1-529383a268df')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-444d-1fe0-b0d1-529383a268df",
+    "BillID": "AKU2500744393E",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500744393E/001 (Final - 16.11.2025 09:21:39)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "RFC_PS1100",
+    "FirstPrintedAt": "\/Date(1763516190156+0000)\/",
+    "LastPrintedBy": "93675768",
+    "LastPrintedAt": "\/Date(1775018875300+0000)\/",
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1763256099598+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1763256099598+0000)\/",
+    "BillCVCreatedAt": "\/Date(1763013362098+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1763415945455+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-b0d1-529383a268df')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-b0d1-529383a268df')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-b0d1-529383a268df')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-b0d1-529383a268df')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-b0d1-529383a268df')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-b0d1-529383a268df')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-b0d1-529383a268df')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-b0d1-529383a268df')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-b0d1-529383a268df')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-b0b0-4f05bbbc68d7')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-b0b0-4f05bbbc68d7')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-2745-1fe0-b0b0-4f05bbbc68d7",
+    "BillID": "AKU2500733201F",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500733201F/001 (Final - 15.11.2025 01:51:01)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "RFC_PS1100",
+    "FirstPrintedAt": "\/Date(1763339537221+0000)\/",
+    "LastPrintedBy": "RFC_PS1100",
+    "LastPrintedAt": "\/Date(1763339537221+0000)\/",
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1763142661573+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1763142661573+0000)\/",
+    "BillCVCreatedAt": "\/Date(1762909450357+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1763274573107+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-b0b0-4f05bbbc68d7')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-b0b0-4f05bbbc68d7')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-b0b0-4f05bbbc68d7')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-b0b0-4f05bbbc68d7')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-b0b0-4f05bbbc68d7')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-b0b0-4f05bbbc68d7')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-b0b0-4f05bbbc68d7')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-b0b0-4f05bbbc68d7')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-b0b0-4f05bbbc68d7')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-afed-c90b3766a8de')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-afed-c90b3766a8de')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-444d-1fe0-afed-c90b3766a8de",
+    "BillID": "AKU2500733201F",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500733201F/000 (Test - 12.11.2025 10:21:28)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "88309023",
+    "FirstPrintedAt": "\/Date(1762914111992+0000)\/",
+    "LastPrintedBy": "88309023",
+    "LastPrintedAt": "\/Date(1762914111992+0000)\/",
+    "CreatedBy": "88309023",
+    "CreatedAt": "\/Date(1762914088334+0000)\/",
+    "LastChangedBy": "88309023",
+    "LastChangedAt": "\/Date(1762914088334+0000)\/",
+    "BillCVCreatedAt": "\/Date(1762909450357+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1762914109314+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-afed-c90b3766a8de')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-afed-c90b3766a8de')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-afed-c90b3766a8de')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-afed-c90b3766a8de')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-afed-c90b3766a8de')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-afed-c90b3766a8de')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-afed-c90b3766a8de')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-afed-c90b3766a8de')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-afed-c90b3766a8de')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-b0b0-6df4687728e4')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-b0b0-6df4687728e4')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-ec04-1fe0-b0b0-6df4687728e4",
+    "BillID": "AKU2500732284Z",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500732284Z/001 (Final - 15.11.2025 01:58:00)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "RFC_PS1100",
+    "FirstPrintedAt": "\/Date(1763339473886+0000)\/",
+    "LastPrintedBy": "93675768",
+    "LastPrintedAt": "\/Date(1775018799165+0000)\/",
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1763143080838+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1763143080838+0000)\/",
+    "BillCVCreatedAt": "\/Date(1762905693576+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1763278736476+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-b0b0-6df4687728e4')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-b0b0-6df4687728e4')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-b0b0-6df4687728e4')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-b0b0-6df4687728e4')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-b0b0-6df4687728e4')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-b0b0-6df4687728e4')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-b0b0-6df4687728e4')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-b0b0-6df4687728e4')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-b0b0-6df4687728e4')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe0-a7f7-1490e95228da')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe0-a7f7-1490e95228da')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-a013-1fe0-a7f7-1490e95228da",
+    "BillID": "AKU2500504019Z",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500504019Z/001 (Final - 03.10.2025 01:53:08)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "RFC_PS1100",
+    "FirstPrintedAt": "\/Date(1759451337706+0000)\/",
+    "LastPrintedBy": "93675768",
+    "LastPrintedAt": "\/Date(1775018837157+0000)\/",
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1759427588255+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1759427588255+0000)\/",
+    "BillCVCreatedAt": "\/Date(1759195476353+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1759427595344+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe0-a7f7-1490e95228da')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe0-a7f7-1490e95228da')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe0-a7f7-1490e95228da')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe0-a7f7-1490e95228da')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe0-a7f7-1490e95228da')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe0-a7f7-1490e95228da')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe0-a7f7-1490e95228da')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe0-a7f7-1490e95228da')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-a013-1fe0-a7f7-1490e95228da')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe0-a7b9-0bb2f41528d7')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe0-a7b9-0bb2f41528d7')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-daf0-1fe0-a7b9-0bb2f41528d7",
+    "BillID": "AKU2500504019Z",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500504019Z/000 (Test - 30.09.2025 14:40:37)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "15717270",
+    "FirstPrintedAt": "\/Date(1759214442707+0000)\/",
+    "LastPrintedBy": "15717270",
+    "LastPrintedAt": "\/Date(1759214442707+0000)\/",
+    "CreatedBy": "15717270",
+    "CreatedAt": "\/Date(1759214437809+0000)\/",
+    "LastChangedBy": "15717270",
+    "LastChangedAt": "\/Date(1759214437809+0000)\/",
+    "BillCVCreatedAt": "\/Date(1759195476353+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1759214440102+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe0-a7b9-0bb2f41528d7')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe0-a7b9-0bb2f41528d7')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe0-a7b9-0bb2f41528d7')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe0-a7b9-0bb2f41528d7')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe0-a7b9-0bb2f41528d7')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe0-a7b9-0bb2f41528d7')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe0-a7b9-0bb2f41528d7')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe0-a7b9-0bb2f41528d7')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-daf0-1fe0-a7b9-0bb2f41528d7')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe0-9cec-d5a3103848d4')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe0-9cec-d5a3103848d4')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-7ce2-1fe0-9cec-d5a3103848d4",
+    "BillID": "AKU2500208961A",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500208961A/000 (Test - 07.08.2025 16:14:35)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "86553503",
+    "FirstPrintedAt": "\/Date(1754554481974+0000)\/",
+    "LastPrintedBy": "86553503",
+    "LastPrintedAt": "\/Date(1754554481974+0000)\/",
+    "CreatedBy": "86553503",
+    "CreatedAt": "\/Date(1754554475017+0000)\/",
+    "LastChangedBy": "86553503",
+    "LastChangedAt": "\/Date(1754554475017+0000)\/",
+    "BillCVCreatedAt": "\/Date(1754441410340+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1754554477531+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe0-9cec-d5a3103848d4')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe0-9cec-d5a3103848d4')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe0-9cec-d5a3103848d4')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe0-9cec-d5a3103848d4')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe0-9cec-d5a3103848d4')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe0-9cec-d5a3103848d4')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe0-9cec-d5a3103848d4')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe0-9cec-d5a3103848d4')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-7ce2-1fe0-9cec-d5a3103848d4')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-9d92-ce821a6528df')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-9d92-ce821a6528df')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-ec04-1fe0-9d92-ce821a6528df",
+    "BillID": "AKU2500208961A",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500208961A/001 (Final - 09.08.2025 04:29:03)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "RFC_PS1100",
+    "FirstPrintedAt": "\/Date(1754786658932+0000)\/",
+    "LastPrintedBy": "RFC_PS1100",
+    "LastPrintedAt": "\/Date(1754786658932+0000)\/",
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1754684943978+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1754684943978+0000)\/",
+    "BillCVCreatedAt": "\/Date(1754441410340+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1754684949255+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-9d92-ce821a6528df')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-9d92-ce821a6528df')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-9d92-ce821a6528df')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-9d92-ce821a6528df')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-9d92-ce821a6528df')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-9d92-ce821a6528df')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-9d92-ce821a6528df')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-9d92-ce821a6528df')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-ec04-1fe0-9d92-ce821a6528df')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-10f1-1fe0-9ccd-b8048a3748d7')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-10f1-1fe0-9ccd-b8048a3748d7')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-10f1-1fe0-9ccd-b8048a3748d7",
+    "BillID": "AKU2500208526H",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500208526H/000 (Test - 06.08.2025 10:32:37)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "16443163",
+    "FirstPrintedAt": "\/Date(1754447563133+0000)\/",
+    "LastPrintedBy": "16443163",
+    "LastPrintedAt": "\/Date(1754447563133+0000)\/",
+    "CreatedBy": "16443163",
+    "CreatedAt": "\/Date(1754447557950+0000)\/",
+    "LastChangedBy": "16443163",
+    "LastChangedAt": "\/Date(1754447557950+0000)\/",
+    "BillCVCreatedAt": "\/Date(1754439505818+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1754447560269+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-10f1-1fe0-9ccd-b8048a3748d7')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-10f1-1fe0-9ccd-b8048a3748d7')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-10f1-1fe0-9ccd-b8048a3748d7')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-10f1-1fe0-9ccd-b8048a3748d7')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-10f1-1fe0-9ccd-b8048a3748d7')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-10f1-1fe0-9ccd-b8048a3748d7')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-10f1-1fe0-9ccd-b8048a3748d7')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-10f1-1fe0-9ccd-b8048a3748d7')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-10f1-1fe0-9ccd-b8048a3748d7')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9d92-9ff7a527e8d1')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9d92-9ff7a527e8d1')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-c585-1fe0-9d92-9ff7a527e8d1",
+    "BillID": "AKU2500208526H",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500208526H/001 (Final - 09.08.2025 04:18:40)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "RFC_PS1100",
+    "FirstPrintedAt": "\/Date(1754786775670+0000)\/",
+    "LastPrintedBy": "RFC_PS1100",
+    "LastPrintedAt": "\/Date(1754786775670+0000)\/",
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1754684320444+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1754684320444+0000)\/",
+    "BillCVCreatedAt": "\/Date(1754439505818+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1754684328428+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9d92-9ff7a527e8d1')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9d92-9ff7a527e8d1')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9d92-9ff7a527e8d1')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9d92-9ff7a527e8d1')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9d92-9ff7a527e8d1')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9d92-9ff7a527e8d1')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9d92-9ff7a527e8d1')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9d92-9ff7a527e8d1')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9d92-9ff7a527e8d1')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-9ccd-203683a968da')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-9ccd-203683a968da')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-444d-1fe0-9ccd-203683a968da",
+    "BillID": "AKU2500200680Z",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500200680Z/000 (Test - 06.08.2025 09:58:49)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "62084057",
+    "FirstPrintedAt": "\/Date(1754445535581+0000)\/",
+    "LastPrintedBy": "62084057",
+    "LastPrintedAt": "\/Date(1754445535581+0000)\/",
+    "CreatedBy": "62084057",
+    "CreatedAt": "\/Date(1754445529979+0000)\/",
+    "LastChangedBy": "62084057",
+    "LastChangedAt": "\/Date(1754445529979+0000)\/",
+    "BillCVCreatedAt": "\/Date(1754353178003+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1754445532081+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-9ccd-203683a968da')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-9ccd-203683a968da')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-9ccd-203683a968da')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-9ccd-203683a968da')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-9ccd-203683a968da')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-9ccd-203683a968da')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-9ccd-203683a968da')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-9ccd-203683a968da')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-444d-1fe0-9ccd-203683a968da')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9cf7-d208607548d1')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9cf7-d208607548d1')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-c585-1fe0-9cf7-d208607548d1",
+    "BillID": "AKU2500200680Z",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500200680Z/001 (Final - 08.08.2025 02:43:34)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "RFC_PS1100",
+    "FirstPrintedAt": "\/Date(1754613024084+0000)\/",
+    "LastPrintedBy": "RFC_PS1100",
+    "LastPrintedAt": "\/Date(1754613024084+0000)\/",
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1754592214390+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1754592214390+0000)\/",
+    "BillCVCreatedAt": "\/Date(1754353178003+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1754592465151+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9cf7-d208607548d1')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9cf7-d208607548d1')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9cf7-d208607548d1')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9cf7-d208607548d1')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9cf7-d208607548d1')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9cf7-d208607548d1')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9cf7-d208607548d1')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9cf7-d208607548d1')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-c585-1fe0-9cf7-d208607548d1')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe0-95af-0f2e52eba8d6')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe0-95af-0f2e52eba8d6')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": false,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": false,
+    "process_holdingarea_ac": false,
+    "Delete_mc": true,
+    "BillUUID": "005056b2-055e-1fe0-95af-0f2e52eba8d6",
+    "BillID": "AKU2500004601Z",
+    "BillVersionID": "0",
+    "BillType": "T",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500004601Z/000 (Test - 30.06.2025 14:07:21)",
+    "BillingPeriod": "",
+    "IsLatest": "",
+    "IsLatestNonDraft": "",
+    "HasFinal": "X",
+    "FirstPrintedBy": "15254410",
+    "FirstPrintedAt": "\/Date(1751263660642+0000)\/",
+    "LastPrintedBy": "15254410",
+    "LastPrintedAt": "\/Date(1751263660642+0000)\/",
+    "CreatedBy": "15254410",
+    "CreatedAt": "\/Date(1751263641885+0000)\/",
+    "LastChangedBy": "15254410",
+    "LastChangedAt": "\/Date(1751263641885+0000)\/",
+    "BillCVCreatedAt": "\/Date(1751241461415+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1751263651453+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Test",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe0-95af-0f2e52eba8d6')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe0-95af-0f2e52eba8d6')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe0-95af-0f2e52eba8d6')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe0-95af-0f2e52eba8d6')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe0-95af-0f2e52eba8d6')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe0-95af-0f2e52eba8d6')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe0-95af-0f2e52eba8d6')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe0-95af-0f2e52eba8d6')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-055e-1fe0-95af-0f2e52eba8d6')/to_RelatedBill"
+      }
+    }
+  },
+  {
+    "__metadata": {
+      "id": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-97b0-e200501d28d3')",
+      "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-97b0-e200501d28d3')",
+      "type": "cds_zpabl_patient_billing_srv.BillType"
+    },
+    "cancel_ac": true,
+    "exclude_be_se_ac": true,
+    "generate_final_bill_ac": false,
+    "generate_interim_bill_ac": false,
+    "generate_test_bill_ac": false,
+    "print_bill_ac": true,
+    "process_holdingarea_ac": false,
+    "Delete_mc": false,
+    "BillUUID": "005056b2-2745-1fe0-97b0-e200501d28d3",
+    "BillID": "AKU2500004601Z",
+    "BillVersionID": "1",
+    "BillType": "F",
+    "PatientID": "1000101632",
+    "FullName": "CHIA FONG LIN",
+    "PatientContractAccountID": "150303",
+    "BillGroupingVariantID": "T1OP1",
+    "BilledUntil": null,
+    "BillDisplayID": "AKU2500004601Z/001 (Final - 10.07.2025 20:11:59)",
+    "BillingPeriod": "",
+    "IsLatest": "X",
+    "IsLatestNonDraft": "X",
+    "HasFinal": "X",
+    "FirstPrintedBy": "RFC_PS1100",
+    "FirstPrintedAt": "\/Date(1753316457077+0000)\/",
+    "LastPrintedBy": "RFC_PS1100",
+    "LastPrintedAt": "\/Date(1753316457077+0000)\/",
+    "CreatedBy": "BATCH_SH_OPS",
+    "CreatedAt": "\/Date(1752149519808+0000)\/",
+    "LastChangedBy": "BATCH_SH_OPS",
+    "LastChangedAt": "\/Date(1752149519808+0000)\/",
+    "BillCVCreatedAt": "\/Date(1751241461415+0000)\/",
+    "Status": "A",
+    "Etag": "\/Date(1753217916696+0000)\/",
+    "BillableEventID": "",
+    "DefaultPrintLayout": "D",
+    "DefaultNRICMasking": true,
+    "PatientID1": "1000101632",
+    "PatientID2": "1000101632",
+    "PatientID3": "1000101632",
+    "ExcludedFrom": "",
+    "ExcludedAt": null,
+    "ExcludedBy": "",
+    "BillType_Text": "Final",
+    "Status_Text": "Active",
+    "to_BillBE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-97b0-e200501d28d3')/to_BillBE"
+      }
+    },
+    "to_BillBE_Basic": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-97b0-e200501d28d3')/to_BillBE_Basic"
+      }
+    },
+    "to_BillBE_Wo_Charges": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-97b0-e200501d28d3')/to_BillBE_Wo_Charges"
+      }
+    },
+    "to_BillCIT": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-97b0-e200501d28d3')/to_BillCIT"
+      }
+    },
+    "to_BillCrossVersionDet": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-97b0-e200501d28d3')/to_BillCrossVersionDet"
+      }
+    },
+    "to_BillExclusionOption": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-97b0-e200501d28d3')/to_BillExclusionOption"
+      }
+    },
+    "to_BillSE": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-97b0-e200501d28d3')/to_BillSE"
+      }
+    },
+    "to_PyDistDocHDR_BD": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-97b0-e200501d28d3')/to_PyDistDocHDR_BD"
+      }
+    },
+    "to_RelatedBill": {
+      "__deferred": {
+        "uri": "https://NATIONALBILLINGSYSTEM.HEALTHGRP.COM.SG:443/sap/opu/odata/sap/ZPABL_PATIENT_BILLING_SRV/Bill(guid'005056b2-2745-1fe0-97b0-e200501d28d3')/to_RelatedBill"
+      }
+    }
+  }
+]
