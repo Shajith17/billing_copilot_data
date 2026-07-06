@@ -1,0 +1,32 @@
+[
+    {
+        "__metadata": {
+            "id": "https://BTUAT1FIORI.DEVHEALTHGRP.COM.SG:8443/sap/opu/odata/sap/ZPABL_BILLABLE_EVNT_SRV/BEBillBlock(RecordID=guid'9e0b70b0-6b4e-1fe1-9e9c-a6ff7ca508a8',BillableEventID='1012149780',PatientID='1000203847')",
+            "uri": "https://BTUAT1FIORI.DEVHEALTHGRP.COM.SG:8443/sap/opu/odata/sap/ZPABL_BILLABLE_EVNT_SRV/BEBillBlock(RecordID=guid'9e0b70b0-6b4e-1fe1-9e9c-a6ff7ca508a8',BillableEventID='1012149780',PatientID='1000203847')",
+            "type": "cds_zpabl_billable_event.BEBillBlockType",
+            "etag": "W/\"'SADL-3945304237304230364234453146453139453943413646463743413536384138~9E0B70B06B4E1FE19E9CA6FF7CA568A8'\""
+        },
+        "RecordID": "9e0b70b0-6b4e-1fe1-9e9c-a6ff7ca508a8",
+        "BillableEventID": "1012149780",
+        "PatientID": "1000203847",
+        "ParentID": "9cab1d8b-e9da-1fe1-9e9c-9ee434eb08b8",
+        "ObjectID": "9cab1d8b-e9da-1fe1-9e9c-9ee434eb08b8",
+        "RecordNumber": "1",
+        "Institute": "T1SG",
+        "BillBlock": "C",
+        "BillValidFrom": "\/Date(1783209600000)\/",
+        "BillValidTo": "\/Date(1783728000000)\/",
+        "CreatedBy": "S_DAYAKAR",
+        "UpdatedBy": "",
+        "CreatedDateTime": "\/Date(1783306132000+0000)\/",
+        "UpdatedDateTime": null,
+        "BillRemarks": "",
+        "BillText": "PENDING DRUG COLLECTION",
+        "ETAG": "9E0B70B06B4E1FE19E9CA6FF7CA568A8",
+        "to_BillableEvent": {
+            "__deferred": {
+                "uri": "https://BTUAT1FIORI.DEVHEALTHGRP.COM.SG:8443/sap/opu/odata/sap/ZPABL_BILLABLE_EVNT_SRV/BEBillBlock(RecordID=guid'9e0b70b0-6b4e-1fe1-9e9c-a6ff7ca508a8',BillableEventID='1012149780',PatientID='1000203847')/to_BillableEvent"
+            }
+        }
+    }
+]
